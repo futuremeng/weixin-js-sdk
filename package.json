@@ -1,5 +1,5 @@
 {
-  "name": "@futuremeng/weixin-js-sdk",
+  "name": "jweixin-js-sdk",
   "version": "1.6.0",
   "main": "jweixin-1.6.0.js",
   "description": "微信官方 js-sdk CommonJS 版",
